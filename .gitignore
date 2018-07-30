@@ -12,7 +12,6 @@ bin
 .settings
 logs
 /.idea/
-/project/
 /project/boot/
 /project/target
 /project/plugins/project
